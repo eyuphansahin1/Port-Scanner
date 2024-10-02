@@ -12,3 +12,4 @@ socket and argparse libraries (built-in in Python).
 
 #Example 
 python port_scanner.py -i 192.168.1.1 -p 20-80
+
